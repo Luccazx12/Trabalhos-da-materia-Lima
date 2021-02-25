@@ -4,6 +4,6 @@ Trabalhos Realizados na Matéria LIMA (Linguagem de Marcação) do curso de Dese
 
 
 Site com alguns dos exercícios resolvidos em FPOO:
-[**https://luccazx12.github.io/Trabalhos-da-materia-Lima/exercicios/index.html**](https://luccazx12.github.io/Trabalhos-da-materia-Lima/exercicios/index.html)
+[**https://luccazx12.github.io/Trabalhos-da-materia-Lima/exercicios/index.html**](https://luccazx12.github.io/trabalhos-da-materia-Lima/exercicios/index.html)
 
 ![Image](https://raw.githubusercontent.com/Luccazx12/Trabalhos-da-materia-Lima/master/exercicios/exerciciosFPOO.JPG)
