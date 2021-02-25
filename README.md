@@ -1,6 +1,6 @@
 # **Trabalhos da Matéria Lima**
 
-Trabalhos Realizados na Matéria LIMA (Linguagem de Marcação) do curso de Desenvolvimento de Sistemas do Senai, sob orientação do professor Danilo Santana e Silva.
+Trabalhos Realizados na Matéria LIMA (Linguagem de Marcação) do curso de Desenvolvimento de Sistemas do SENAI, sob orientação do professor Danilo Santana e Silva.
 
 
 Site com alguns dos exercícios resolvidos em FPOO:
